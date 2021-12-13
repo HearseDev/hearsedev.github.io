@@ -13,6 +13,6 @@ jobs:
        run: |
          chmod +x update.sh
          ./update.sh
-       working-directory: ${{GITHUB_WORKSPACE}}
+       working-directory: ${{github.workspace}}
        shell: bash
       
