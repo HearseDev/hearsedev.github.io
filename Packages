@@ -1,0 +1,14 @@
+Package: com.hearse.slowmo
+Name: slowmo
+Version: 0.0.1 
+Architecture: iphoneos-arm
+Description: slowmotion
+Maintainer: Hearse
+Author: Hearse <hearsd@gmail.com>
+Section: Tweaks
+Depends: 
+Filename: debs/com.hearse.slowmo_0.0.1_iphoneos-arm.deb
+Size: 7180
+MD5sum: c021f7349e057e86726cc162ecd9f6b3
+SHA1: bc1631449e4c75596109a5c9d1bca72b87d7f6de
+SHA256: d2e2285c428a40c80801b02e672b6fa6d24757a7e007bba87bffd3c3518c7b23
