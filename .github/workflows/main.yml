@@ -11,6 +11,6 @@ jobs:
      - name: Run script file
        run: |
          chmod +x update.sh
-         .update.sh
+         ./update.sh
        shell: bash
       
