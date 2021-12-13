@@ -7,10 +7,12 @@ jobs:
   Update-Repo-Packages:
     runs-on: ubuntu-latest
     steps:
+    
      - uses: actions/checkout@v2
      - name: Run script file
        run: |
          chmod +x update.sh
          ./update.sh
+       working-directory: ${{GITHUB_WORKSPACE}}
        shell: bash
       
