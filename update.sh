@@ -12,17 +12,17 @@ bzip2 -c9 Packages > Packages.bz2
 
 echo "[Repository] Generating Release..."
 apt-ftparchive \
-        -o APT::FTPArchive::Release::Origin="Amy's Repo" \
-        -o APT::FTPArchive::Release::Label="Amy's Repo" \
+        -o APT::FTPArchive::Release::Origin="Hearse's Repo" \
+        -o APT::FTPArchive::Release::Label="Hearse's Repo" \
         -o APT::FTPArchive::Release::Suite="stable" \
         -o APT::FTPArchive::Release::Version="1.0" \
         -o APT::FTPArchive::Release::Codename="ios" \
         -o APT::FTPArchive::Release::Architectures="iphoneos-arm" \
         -o APT::FTPArchive::Release::Components="main" \
-        -o APT::FTPArchive::Release::Description="Amy's Dump of Tweaks" \
+        -o APT::FTPArchive::Release::Description="Hearse's Dump of Tweaks" \
         release . > Release
 
-echo "[Repository] Signing Release using Amy's GPG Key..."
-gpg -abs -u 816C7A50B575162DC29288CD72339224580758CE -o Release.gpg Release
+echo "[Repository] Signing Release using Hearse's GPG Key..."
+gpg -abs -u CA1E55A06D1AB4CB77DE813873A412BA64BC84B9 -o Release.gpg Release
 
 echo "[Repository] Finished"
