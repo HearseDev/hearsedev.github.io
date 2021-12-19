@@ -1,17 +1,17 @@
-Package: com.hearse.3decrypt
+Package: com.hearse.3developer
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 1.0
 Section: Tweaks
-Maintainer: Hearse
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000), flexdecrypt
-Filename: ./pool/com.hearse.3decrypt_0.0.1_iphoneos-arm.deb
-Size: 5346
-MD5sum: bcde0703d3b839e1393080e7a80d356c
-SHA1: c4d2a0e3c84f2756cccb269a5dd8e5930bcecdfc
-SHA256: d5fbbb12c0edec7c90700a8a2ab0f9ed2958256ec5dde520bb9e7ae2c48289a7
-SHA512: 9f0833017dd733cfe1c21d9c4fc9424e05745233a97b3ebcb70289fdab6aa8a5a9c4edf2908b7fa93f304499c56e9e1750f66ba63730277deec618f32fb0c43d
-Description: 3D touch action for flexdecrypt
-Name: 3Decrypt
-Author: Hearse
+Maintainer: Hearse/Fiore
+Installed-Size: 392
+Depends: mobilesubstrate (>= 0.9.5000), flexdecrypt, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./pool/com.hearse.3developer_1.0_iphoneos-arm.deb
+Size: 19622
+MD5sum: 4ff37d3a17f23376b6bb74e2eb7b14c6
+SHA1: 70906aeb97353e1c7dc043f8cc331b8e44cc37bb
+SHA256: 6b2be92a4f09e9ea6f360c00494a800cf16632cc3ec1a85c02020e64c4d10a30
+SHA512: 532c6f8c19358e53650f19b6f1ee77c4acd79c769361694849a2f060a972cd865d7e7bdbd859c135d3f6bcbb0f8ecdb1ab7c3f5dcf97475537d3919953dda7a5
+Description: 3D touch shortcuts for various developer actions!
+Name: 3Developer
+Author: Hearse/Fiore
 
