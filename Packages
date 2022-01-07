@@ -15,3 +15,20 @@ Description: 3D touch shortcuts for various developer actions!
 Name: 3Developer
 Author: Hearse/Fiore
 
+Package: com.hearse.slowmo
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Hearse
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.hearse.slowmo_0.0.1_iphoneos-arm.deb
+Size: 9606
+MD5sum: e2afad939b6af3116a095a3192b5abc4
+SHA1: a2ef828b352d2afecb6e51e5f6539054e6951e6f
+SHA256: d76f469418fa1c23b5ad4df72590171c3a2773de403c945d203fc79c1b97685a
+SHA512: f4f004493fe66fdfa6f129bc8d2de724b4a7008135bdaae5c0679716ab2bb4913204531c8cb07eb86ead8cc53fcfa28c68b646e66c5b8e1090546c55aada5ac9
+Description: An awesome MobileSubstrate tweak!
+Name: SlowMo
+Author: Hearse
+
