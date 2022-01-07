@@ -23,12 +23,12 @@ Maintainer: Hearse
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./pool/com.hearse.slowmo_0.0.1_iphoneos-arm.deb
-Size: 9684
-MD5sum: 47c9b7a88988e77613ec458d3d1f6ab1
-SHA1: 4c47df683ae65e7cc1e7571f0a3f1316d9ca9eee
-SHA256: 60ff3af109ab1ce6fc1b69e57a413e13ba61b6defcfa84cbdb03f9b5126e3026
-SHA512: f5c49e6b7546e236156e5c4a98de588248ef97614a0b12d7cdd09b9871970cec524c7f10bb8c5007b848d87ff1847f4f0ff7bc09f57f48e292ac91aea2f31666
-Description: An awesome MobileSubstrate tweak!
+Size: 9680
+MD5sum: 66d78c64ad33004c549a7906dbdde7d3
+SHA1: bb42d2a386e97de6c9770189f0a06a8eb1cd93fa
+SHA256: dd4c6f111be5dcbafbec03999ea53abf42d45fbfdfb60e790c6c61c6ece2e38d
+SHA512: dcee63c0620b29b28284a6294d978aab418f2e6e2b0cc71b7db5c6ee436008ecf30effac20c6d4eec565f51eddf4f31bcf6a9a303dc0f75d0e0f6affd55fe75f
+Description: Slow Motion functionality for the Photos App
 Name: SlowMo
 Author: Hearse
 
