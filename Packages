@@ -1,33 +1,33 @@
 Package: com.hearse.3developer
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: Hearse/Fiore
-Installed-Size: 392
-Depends: mobilesubstrate (>= 0.9.5000), flexdecrypt, ws.hbang.common (>= 1.17), firmware (>= 13.0)
-Filename: ./pool/com.hearse.3developer_1.0_iphoneos-arm.deb
-Size: 19622
-MD5sum: 4ff37d3a17f23376b6bb74e2eb7b14c6
-SHA1: 70906aeb97353e1c7dc043f8cc331b8e44cc37bb
-SHA256: 6b2be92a4f09e9ea6f360c00494a800cf16632cc3ec1a85c02020e64c4d10a30
-SHA512: 532c6f8c19358e53650f19b6f1ee77c4acd79c769361694849a2f060a972cd865d7e7bdbd859c135d3f6bcbb0f8ecdb1ab7c3f5dcf97475537d3919953dda7a5
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000), flexdecrypt, firmware (>= 13.0)
+Filename: ./pool/com.hearse.3developer_1.1_iphoneos-arm.deb
+Size: 8050
+MD5sum: 0afcc774272b03c46f5c2bd1885fea64
+SHA1: bfb0abf9a30bad72cc1f2c999cf30aa316397e92
+SHA256: 5ee5d9650620e6a1f189f3fb8fcab2f05f381437fc635bde7fa060668ac4ee3d
+SHA512: fc0f79c43e40ab63e69b420b63c2cefaba22b0fcbbb728bd05db5e842512c59da6cfe7d0d4a15fcccc317105d137187debbbf5123098d87084152c6fc1800ccc
 Description: 3D touch shortcuts for various developer actions!
 Name: 3Developer
 Author: Hearse/Fiore
 
 Package: com.hearse.slowmo
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 1.1
 Section: Tweaks
 Maintainer: Hearse
-Installed-Size: 188
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./pool/com.hearse.slowmo_0.0.1_iphoneos-arm.deb
-Size: 9680
-MD5sum: 66d78c64ad33004c549a7906dbdde7d3
-SHA1: bb42d2a386e97de6c9770189f0a06a8eb1cd93fa
-SHA256: dd4c6f111be5dcbafbec03999ea53abf42d45fbfdfb60e790c6c61c6ece2e38d
-SHA512: dcee63c0620b29b28284a6294d978aab418f2e6e2b0cc71b7db5c6ee436008ecf30effac20c6d4eec565f51eddf4f31bcf6a9a303dc0f75d0e0f6affd55fe75f
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./pool/com.hearse.slowmo_1.1_iphoneos-arm.deb
+Size: 13862
+MD5sum: d0c0e0862055080c07b49591ca164406
+SHA1: 1a00c8cb1c723f38fb3c83ea1373d3c3ac7b0990
+SHA256: 7a8bd85733ef6c6b95e2acd3145454d977541c4679dea171a738726b217a78da
+SHA512: cae8e2726daf14331a5dec7aba9ddb0cb69bf57b95c79d085be5a9809c7c361c507f7954a6ae5184d2e5f645c2d86e3ab540128908d609ee6f409e464c1bb89c
 Description: Slow Motion functionality for the Photos App
 Name: SlowMo
 Author: Hearse
