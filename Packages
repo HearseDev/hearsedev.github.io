@@ -50,3 +50,21 @@ Description: An awesome MobileSubstrate tweak!
 Name: TwitchToolbox
 Author: Hearse
 
+Package: com.hearse.twitchtoolbox
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Hearse
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: Twitch++, TwitchAdBlock, AutoChannelPoints, TwitchNoAds
+Filename: ./pool/com.hearse.twitchtoolbox_1.0_iphoneos-arm.deb
+Size: 28538
+MD5sum: cf34dfc8d184de207e4e63e9a7f525c1
+SHA1: 978e1c11b01dcf9f7667b8dcafcb1601a2c665ed
+SHA256: 30c02962895ea7a60c7974428409849eadd7751d1a625b806aff9af6fa00dc71
+SHA512: ace1c0fd02c80189a897e870b52bafa5479b4caf27215943ad905384ebe76407c4d087ced1d8f0fbd1c957d5c781de9c6afb0371cc40b394443b3fdaa933bd3d
+Description: An awesome MobileSubstrate tweak!
+Name: TwitchToolbox
+Author: Hearse
+
