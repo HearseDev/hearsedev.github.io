@@ -32,3 +32,21 @@ Description: Slow Motion functionality for the Photos App
 Name: SlowMo
 Author: Hearse
 
+Package: com.hearse.twitchtoolbox
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Hearse
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: Twitch++, TwitchAdBlock, AutoChannelPoints, TwitchNoAds
+Filename: ./pool/com.hearse.twitchtoolbox_0.0.1_iphoneos-arm.deb
+Size: 28076
+MD5sum: 3824cc5d1133294a955117df23f6938b
+SHA1: 887c7bc81498c0e82a8741c243c01c6a90867d17
+SHA256: 1fe13a232419952bf3b15f0972e48e602461a0166cae904c96002a1fd8218085
+SHA512: bbb8f44088c0db978bd6873dd2dcac90ab31dfba99cb8e8870833dc3b42217b730856c90f77f482f6ad0cf6fb4be32289daf7baebe31d4f85b0da6ba0afa448e
+Description: An awesome MobileSubstrate tweak!
+Name: TwitchToolbox
+Author: Hearse
+
