@@ -27,3 +27,7 @@ docker rm -f repo
 echo "[Repository] Signing Release using Hearse's GPG Key..."
 gpg -abs -u CA1E55A06D1AB4CB77DE813873A412BA64BC84B9 -o Release.gpg Release
 echo "[Repository] Finished"
+
+git add .
+git commit -m "update"
+git push
