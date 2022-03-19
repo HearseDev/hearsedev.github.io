@@ -25,7 +25,8 @@ docker rm -f repo
 
 
 echo "[Repository] Signing Release using Hearse's GPG Key..."
-gpg --batch --passphrase-fd 0 -abs -u CA1E55A06D1AB4CB77DE813873A412BA64BC84B9 -o Release.gpg Release < passphrase.txt
+# gpg --passphrase-fd 0 -abs -u CA1E55A06D1AB4CB77DE813873A412BA64BC84B9 -o Release.gpg Release < passphrase.txt
+gpg --batch --passphrase-file passphrase.txt --pinentry-mode loopback -abs -u CA1E55A06D1AB4CB77DE813873A412BA64BC84B9 -o Release.gpg Release
 echo "[Repository] Finished"
 
 git add .
