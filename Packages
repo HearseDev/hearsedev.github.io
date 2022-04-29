@@ -34,78 +34,6 @@ Author: Hearse
 
 Package: com.hearse.twitchtoolbox
 Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Hearse
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: Twitch++, TwitchAdBlock, AutoChannelPoints, TwitchNoAds
-Filename: ./pool/com.hearse.twitchtoolbox_1.1_iphoneos-arm.deb
-Size: 61802
-MD5sum: e352abb63b39e3c2ea0a8dbbd300fce0
-SHA1: 4e68e5e28e52253d3d210a58633bceba29134cc5
-SHA256: 474895d079a3a330dd54da5b090a904ab1089c7b7b72db1b5e27d82315363b11
-SHA512: 4fa9515e76d3b33a5d78126c3cd646b1eba802b887ee7f387be1a63cb11a8d2fd523a1109033926d900e40d0a2593f239dce5365e72ee3fc7894867e0d78ee09
-Description: The best twitch tweak there is!
-Name: TwitchToolbox
-Author: Hearse
-
-Package: com.hearse.twitchtoolbox
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Hearse
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: Twitch++, TwitchAdBlock, AutoChannelPoints, TwitchNoAds
-Filename: ./pool/com.hearse.twitchtoolbox_1.2.1_iphoneos-arm.deb
-Size: 63610
-MD5sum: 385d074a7881931f3c1e146f8aad20b5
-SHA1: 3eac561e4d8cf1b3936dcdd05907bc7705391732
-SHA256: 86dd2502bb840ba592dc87375fb817901eb3621c5bae95c165919256070e5539
-SHA512: 5fc054cfac319d2737efa579f2f134ee7ca320274419b0dec8de3d73ea3bee9d218ce2c7345967e61c34a2785b155367d6289e1701c904371c4898499b36705f
-Description: The best twitch tweak there is!
-Name: TwitchToolbox
-Author: Hearse
-
-Package: com.hearse.twitchtoolbox
-Architecture: iphoneos-arm
-Version: 1.2.3
-Section: Tweaks
-Maintainer: Hearse
-Installed-Size: 296
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: Twitch++, TwitchAdBlock, AutoChannelPoints, TwitchNoAds
-Filename: ./pool/com.hearse.twitchtoolbox_1.2.3_iphoneos-arm.deb
-Size: 28208
-MD5sum: d18bb1ff595aa80d0389bfd1c8b65fbe
-SHA1: 08bda5b63df09bdbaf7d00d6eefb85c807b8f2c3
-SHA256: 5d0518daa44978b25ba2014dad7e8aeeee6e1e52a459ddac638f4a47719456e5
-SHA512: b5bcb7701a59ecb22a296c26ea6e64356cca6c4f3f45b849d9869dff27222afe4bb8f70ffacfcdf2b2a185c6e1891f28f2f0244a24414e80823211841874bf74
-Description: The best twitch tweak there is!
-Name: TwitchToolbox
-Author: Hearse
-
-Package: com.hearse.twitchtoolbox
-Architecture: iphoneos-arm
-Version: 1.2.4
-Section: Tweaks
-Maintainer: Hearse
-Installed-Size: 296
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: Twitch++, TwitchAdBlock, AutoChannelPoints, TwitchNoAds
-Filename: ./pool/com.hearse.twitchtoolbox_1.2.4_iphoneos-arm.deb
-Size: 28990
-MD5sum: d2b4a18af66c0ec6c220bc3a77c86012
-SHA1: e8bc1149af4202d53957f56edfb2d1510a60c966
-SHA256: e1ff27a31f7a5d97833234bf9517704d6acf2b2a17224dfba7fe31ded7db3ea9
-SHA512: 749184264ae663b1284073793caafdcc69d0782450db336cc10564d38002d6891240aa3811d7684d5a3dd461fb37690c08979ef63f85f16e5bdc0e75c46e597d
-Description: The best twitch tweak there is!
-Name: TwitchToolbox
-Author: Hearse
-
-Package: com.hearse.twitchtoolbox
-Architecture: iphoneos-arm
 Version: 1.2.5
 Section: Tweaks
 Maintainer: Hearse
@@ -118,24 +46,6 @@ MD5sum: 2575ddedd15303048af83e682ac23821
 SHA1: e8714a75bcb11de07ab9cd6176ffdfde4c24aec7
 SHA256: 805d07a67dd05c8624296203863660d57317ecff7d92a8e762ddfc6a4647a31d
 SHA512: 6638f93299f3d57afa1af6b0d754c18a6e1f1bfcb266a0efa24e743fd7a4e6970169a5e843f46af7c63dbbfc540d7e3c16e3372cf4c202356afef2add544962e
-Description: The best twitch tweak there is!
-Name: TwitchToolbox
-Author: Hearse
-
-Package: com.hearse.twitchtoolbox
-Architecture: iphoneos-arm
-Version: 1.2
-Section: Tweaks
-Maintainer: Hearse
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: Twitch++, TwitchAdBlock, AutoChannelPoints, TwitchNoAds
-Filename: ./pool/com.hearse.twitchtoolbox_1.2_iphoneos-arm.deb
-Size: 63408
-MD5sum: 9d7f3bd0ee24dd4090bebb830d699caf
-SHA1: 1fa5ef522ce5a4f37c6f0e061adb806ff8aefb9a
-SHA256: bf505d0675d3767c040c95650e990b2986b26d57c08e7064c6dd701e7e3a11db
-SHA512: 5a27d3e0499b0d2c89529a9456fb0e55c771a5967bfbb663a5b94148aa089eee72a2b62b09cb1d3f9f1fcfeab4f1980067278957d7ecd55999d3fb22faf45480
 Description: The best twitch tweak there is!
 Name: TwitchToolbox
 Author: Hearse
