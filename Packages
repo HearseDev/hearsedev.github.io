@@ -70,6 +70,24 @@ Author: Hearse
 
 Package: com.hearse.twitchtoolbox
 Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Hearse
+Installed-Size: 5976
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.level3tjg.twitchadblock, com.level3tjg.autochannelpoints, com.haoict.twitchnoads, com.gilesgc.freemote
+Filename: ./pool/com.hearse.twitchtoolbox_2.1.1_iphoneos-arm.deb
+Size: 958722
+MD5sum: 4a886fd2e2483a94da802a95a172a844
+SHA1: 0df743fee742c8f0d9a595244357af419fc7caec
+SHA256: f9c5bd9f20eb312953ea651e093d9f9107b9da893e2f7e951cc139bf3551f8fa
+SHA512: 59b61251f08b9bd54ada7de66627d5b3f83da26775d2a25478f4c37015d2b7f68e2acfb691af73073a3db11452c50c2818db748321bdf090fe2f23b8f30e6a7e
+Description: The best twitch tweak there is!
+Name: TwitchToolbox
+Author: Hearse
+
+Package: com.hearse.twitchtoolbox
+Architecture: iphoneos-arm
 Version: 2.1
 Section: Tweaks
 Maintainer: Hearse
