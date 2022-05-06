@@ -1,4 +1,5 @@
 {
-  "name": "TwitchToolbox",
-  "latest": "2.1.2"
+  "TwitchToolbox": {
+    "latest": "2.1.2"
+  }
 }
