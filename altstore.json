@@ -6,14 +6,14 @@
       "name": "Twitch Toolbox",
       "bundleIdentifier": "tv.twitch",
       "developerName": "HearseDev",
-      "version": "12.9-2.4",
+      "version": "13-2.4",
       "versionDate": "2022-05-06T08:00:00-07:00",
       "versionDescription": "Initial Release",
-      "downloadURL": "https://cdn-111.bayfiles.com/d1R8h2h7yf/5bd7bd22-1653035276/Twitchv12.9-2.4.ipa",
+      "downloadURL": "https://cdn-122.bayfiles.com/R1K6b3j2y8/721ca80d-1653272813/Twitchv13-2.4.ipa",
       "localizedDescription": "The best tweak for twitch.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/7/74/Twitch-icon-5.png",
       "tintColor": "018084",
-      "size": 69506179,
+      "size": 49817051,
       "screenshotURLs": [],
       "permissions": []
     }
