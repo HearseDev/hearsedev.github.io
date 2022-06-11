@@ -10,14 +10,14 @@
 </head>
 
 <body>
-
-  <p id="auth"></p>
+<p id="auth">Error!</p>
 <script>
-var vars = {};
-
-  const fragment = window.location.hash
-  const element = document.getElementById("auth");
-  element.innerHTML = fragment;
+  let params = new URLSearchParams(window.location.search)
+  let code = params.get('code')
+  if (code){
+    const element = document.getElementById("auth");
+    element.innerHTML = code;
+  }
 </script>
 </body>
 
