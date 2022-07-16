@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Sat, 16 Jul 2022 05:05:06 +0000
+Description: Hearse's Dump of Tweaks
+Label: Hearse's Repo
+Origin: Hearse's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ e9b4b01e6cf653e0c74f514cdf4ba030             6458 Packages
+ c03782354e13dcd182ccc12df7a0fa31             2316 Packages.bz2
+ c424cae8df81ee73f76e5231063b6a35             2104 Packages.xz
+ 8c943b331b4bf23f5f2ebbc4b534cb01             2075 Packages.zst
+ b891d5b304e2663f873abe8cb59e4c2c              204 Release
+SHA1:
+ e8ca80c999e1f618e88bc6ef02a4b59c586b795c             6458 Packages
+ 2eb932ceedd8ad5a7018feb9787f00a682347787             2316 Packages.bz2
+ 76354594466238eeca4d61bf1ecfd0d7bb26a47a             2104 Packages.xz
+ 5ab3f8a8dd1e929a502c9247e06b8c1de064981e             2075 Packages.zst
+ 14d908dd3b4a0dd17c7c892a22d6a3235447f6c3              204 Release
+SHA256:
+ 04ad894a705986deb9e1c74237ec4df3b370160c2a5d482efc9580534928b3b8             6458 Packages
+ e41e2bf14a99d85ffdb04268584dbf7bb26b28a2652fd4c963ab76e6cc2eb92c             2316 Packages.bz2
+ 97b3547831f88b3e6f89864a63c72c1ca13dbd5e00ffc7253fb41386d629f0cd             2104 Packages.xz
+ 251a33ac124fcdd7e2e2d113206580c2d1dd5a9e5cbd5a4e6fc9c7c87997a605             2075 Packages.zst
+ 289fad6b09eaf32910bbfa2411cd8131e50424abdf41ef76f3d858924bf21f69              204 Release
+SHA512:
+ 86a30b76c106356cb1c055df459ad0d0123aa51116cd0a7f907375044da87eabf468906cdd3f87f1205087036056c5366cde8e8ef7b700e6c36aa388a3784b52             6458 Packages
+ 4cc35d5a2129e2e6a9e044a8f9e7e9955ec7966a905a45fde7feb4cd5c24c33e02c7538d512e754d0d21a5b3da160d00de8abfa07c7accc09e57a088fee997dd             2316 Packages.bz2
+ d75299c39a7f3b149ff61e232cfcf830d6ad6b59c465c2ef683ff43aeb37b92cf1243585c69f68e83fd8e9f22e71fd125ca08ba66deb344d89cdfd450af450e7             2104 Packages.xz
+ 4cd25629aa797b779244bf6aadf049f97c5c441e72a9436b1177592a4f66ddb83c0f470f9dfa858439522cde70be2b1139b5c189c0a91bf01f47b86bce4e0886             2075 Packages.zst
+ dafd30a7102200876869caf2bf7a269a67ab10ce23c0fe78d9646e433776ff3be6b4b50f4eb6554a8c6cb22f4dc349c132169e6bf9c153ceeb30b78ef5f3f34f              204 Release
