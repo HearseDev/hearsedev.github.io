@@ -1,14 +1,14 @@
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
-          <p>WICKED | THESE PRICES ARE PRE ORDER DISCOUNTS.</p>
-          <select id="item-options"><option value="Wicked [Jailbroken/DEB] (1 Device)" price="20">Wicked [Jailbroken/DEB] (1 Device) - 20 USD</option><option value="Wicked [Jailbroken/DEB] (2 Devices)" price="25">Wicked [Jailbroken/DEB] (2 Devices) - 25 USD</option><option value="Wicked [Jailbroken/DEB] (3 Devices)" price="30">Wicked [Jailbroken/DEB] (3 Devices) - 30 USD</option><option value="Wicked [Jailbroken/DEB] (4 Devices)" price="35">Wicked [Jailbroken/DEB] (4 Devices) - 35 USD</option><option value="Wicked [IPA] (1 Device)" price="45">Wicked [IPA] (1 Device) - 45 USD</option><option value="Wicked [IPA] (2 Devices)" price="50">Wicked [IPA] (2 Devices) - 50 USD</option><option value="Wicked [IPA] (3 Devices)" price="55">Wicked [IPA] (3 Devices) - 55 USD</option><option value="Wicked [IPA] (4 Devices)" price="60">Wicked [IPA] (4 Devices) - 60 USD</option><option value="Device Ban Bypass (Single device only)" price="10">Device Ban Bypass (Single device only) - 10 USD</option></select>
+          <p>Wicked | Discount</p>
+          <select id="item-options"><option value="DEB (1 Device)" price="20">DEB (1 Device) - 20 USD</option><option value="DEB (2 Devices)" price="25">DEB (2 Devices) - 25 USD</option><option value="DEB (3 Devices)" price="30">DEB (3 Devices) - 30 USD</option><option value="DEB (4 Devices)" price="35">DEB (4 Devices) - 35 USD</option><option value="IPA (1 Device)" price="40">IPA (1 Device) - 40 USD</option><option value="IPA (2 Devices)" price="45">IPA (2 Devices) - 45 USD</option><option value="IPA (3 Devices)" price="50">IPA (3 Devices) - 50 USD</option><option value="IPA (4 Devices)" price="55">IPA (4 Devices) - 55 USD</option><option value="Device Ban Bypass (1 Device)" price="10">Device Ban Bypass (1 Device) - 10 USD</option></select>
           <select style="visibility: hidden" id="quantitySelect"></select>
         </div>
       <div id="paypal-button-container"></div>
       </div>
     </div>
-    <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=AW9IwIp0Qwrdzl-Q8vQmAAOGnH3FRDqzZA2NvGMOteCoI1b4uWZ4s5lmj25a234exD9THtZapDaXcfhc&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
     <script>
       function initPayPalButton() {
         var shipping = 0;
@@ -18,7 +18,7 @@
     if (!isNaN(quantity)) {
       quantitySelect.style.visibility = "visible";
     }
-    var orderDescription = 'WICKED | THESE PRICES ARE PRE ORDER DISCOUNTS.';
+    var orderDescription = 'Wicked | Discount';
     if(orderDescription === '') {
       orderDescription = 'Item';
     }
