@@ -1,8 +1,8 @@
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
-          <p></p>
-          <select id="item-options"><option value="1 Device" price="6">1 Device - 6 USD</option><option value="2 Devices" price="9">2 Devices - 9 USD</option><option value="3 Devices" price="12">3 Devices - 12 USD</option><option value="4 Devices" price="15">4 Devices - 15 USD</option><option value="IPA Single Device" price="20">IPA Single Device - 20 USD</option></select>
+          <p>WICKED | THESE PRICES ARE PRE ORDER DISCOUNTS.</p>
+          <select id="item-options"><option value="Wicked [Jailbroken/DEB] (1 Device)" price="20">Wicked [Jailbroken/DEB] (1 Device) - 20 USD</option><option value="Wicked [Jailbroken/DEB] (2 Device)" price="25">Wicked [Jailbroken/DEB] (2 Device) - 25 USD</option><option value="Wicked [Jailbroken/DEB] (3 Devices)" price="30">Wicked [Jailbroken/DEB] (3 Devices) - 30 USD</option><option value="Wicked [Jailbroken/DEB] (4 Devices)" price="35">Wicked [Jailbroken/DEB] (4 Devices) - 35 USD</option><option value="Wicked [IPA] (1 Device)" price="45">Wicked [IPA] (1 Device) - 45 USD</option><option value="Wicked [IPA] (2 Devices)" price="50">Wicked [IPA] (2 Devices) - 50 USD</option><option value="Wicked [IPA] (3 Device)" price="55">Wicked [IPA] (3 Device) - 55 USD</option><option value="Wicked [IPA] (4 Device)" price="60">Wicked [IPA] (4 Device) - 60 USD</option><option value="Device Ban Bypass (Single device only)" price="10">Device Ban Bypass (Single device only) - 10 USD</option></select>
           <select style="visibility: hidden" id="quantitySelect"></select>
         </div>
       <div id="paypal-button-container"></div>
@@ -18,16 +18,16 @@
     if (!isNaN(quantity)) {
       quantitySelect.style.visibility = "visible";
     }
-    var orderDescription = '';
+    var orderDescription = 'WICKED | THESE PRICES ARE PRE ORDER DISCOUNTS.';
     if(orderDescription === '') {
       orderDescription = 'Item';
     }
     paypal.Buttons({
       style: {
-        shape: 'pill',
-        color: 'blue',
+        shape: 'rect',
+        color: 'gold',
         layout: 'vertical',
-        label: 'pay',
+        label: 'paypal',
         
       },
       createOrder: function(data, actions) {
