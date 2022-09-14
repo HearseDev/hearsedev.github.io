@@ -194,6 +194,24 @@ Description: ;)
 Name: wicked
 Author: zero
 
+Package: dev.zero.wicked
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Development
+Maintainer: zero
+Installed-Size: 6888
+Depends: mobilesubstrate, dev.zero.wisp
+Replaces:
+Filename: ./pool/dev.zero.wicked_1.0.3_iphoneos-arm.deb
+Size: 3034124
+MD5sum: 0787b17c45ae47f7b06c238ee66bae0a
+SHA1: 360a4100b054afc6ae6d573e4425279f5a30f4c8
+SHA256: b0331294d4aedd4031cb15b400f88391ed1bd6c39989d8f3057f0233fb1b48c7
+SHA512: 0a53f1fd62acbfc0b2bdf5846a7a21e5917744e16f4fef0523dd9ad70aa110452efef6563bcc0c490a2f4568636c49c3730d78c5d756a3924f47ddca74b00ada
+Description: ;)
+Name: wicked
+Author: zero
+
 Package: dev.zero.wisp
 Architecture: iphoneos-arm
 Version: 1.0
