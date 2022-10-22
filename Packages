@@ -178,36 +178,36 @@ Author: Hearse
 
 Package: dev.zero.wicked
 Architecture: iphoneos-arm
-Version: 1.0.4
+Version: 1.0.5
 Section: Development
 Maintainer: zero
-Installed-Size: 7296
+Installed-Size: 7580
 Depends: mobilesubstrate, dev.zero.wisp
 Replaces:
-Filename: ./pool/dev.zero.wicked_1.0.4_iphoneos-arm.deb
-Size: 3193640
-MD5sum: 204a174b85156473933578652448e51f
-SHA1: ad0d812b845f8e5494f955328e3261ea0cb4ae0c
-SHA256: 67c4156486d5b6da167c590886c557efa2e7334ff1e39fb109678778370998a9
-SHA512: f9748b4ac2d1adbd045ba79e20b9a06bdb3591bd5ccaaa6b00ed800014ae18ae120dd50390a26bab9faa42cc0daa84cf69e1e9bf6a9d47f0e903cafb67e391f9
-Description: ;)
+Filename: ./pool/dev.zero.wicked_1.0.5_iphoneos-arm.deb
+Size: 3234228
+MD5sum: 787184c8c3b7f96b9ce0dfe357eebeff
+SHA1: 2adeb5bc7b7e50f1ae184d4a2b3eff967a84fbff
+SHA256: cb3a93ab8fab69731bdedd5b25247e1ce87c74b891ba267ba3c3715c3a7d127b
+SHA512: d14179d82fe8b51a66ebee2388119304fb9f0fa9d2f35c3d30a55242aad1c1018ed107b8f1559dcf7161c9b6591f0da69371c7e4d34d4293d56eb1d56bcb70f1
+Description: wicked
 Name: wicked
 Author: zero
 
 Package: dev.zero.wisp
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 2.0
 Section: Development
 Maintainer: zero
 Installed-Size: 84
 Depends: mobilesubstrate (>= 0.9.5.000)
-Filename: ./pool/dev.zero.wisp_1.0_iphoneos-arm.deb
-Size: 4928
-MD5sum: e5e8d461d79bf67ca97f90359c437584
-SHA1: f90d69c544d6cb0c6f5d0723c6f77196af94e701
-SHA256: b992558795ebb702804f38625fc47fdfd0bd18c8ad4f43495c3a44fbf6822753
-SHA512: 1186ad316338ff8a2eb8f24775f01a7acf652a11b240cf55a2dcd899a62b25dcd33b5b7d311ad666cbc8807c2516e2ca73cd523bd5b56c4392120548f2b1245b
-Description: ;)
+Filename: ./pool/dev.zero.wisp_2.0_iphoneos-arm.deb
+Size: 4924
+MD5sum: 3afc9f192ae4d0ab7d99e5e023be4c4f
+SHA1: b79bde779d09b95f5c8179ce2f6a00bdc82c5b3c
+SHA256: 53c4ca03f9d0eaab3f99e5d49019d62aa5514da89c6933d0e2f803bc50c5f369
+SHA512: bc611b6c0cce936e9474a92cbeb450e6f72424311d9b2258182274c546b75a55fc17addc289e802bbfcc5b9f05afdd06e14a415f864cfe83189a55c9bc580aea
+Description: wisp
 Name: wisp
 Author: zero
 
