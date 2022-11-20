@@ -1,33 +1,33 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Sun, 30 Oct 2022 00:28:00 +0000
+Date: Sun, 20 Nov 2022 22:33:21 +0000
 Description: Hearse's Dump of Tweaks
 Label: Hearse's Repo
 Origin: Hearse's Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- d68271698a429ac2472bf64c77cabfee             8354 Packages
- ad94c8337cb62f747898fb7bb88187dc             2872 Packages.bz2
- f946cf2f4b8692a2dfd5259d54df3dc9             2668 Packages.xz
- ac840ddb4898f3a7b5beb410a9395f8a             2644 Packages.zst
- 6dcef8c25d8e99adeaf98bba93904fd3              204 Release
+ f6cb9bb89ad3c7981b22489df201cc42             8354 Packages
+ 54a5cd19b997a0937a4b9a3c731b2e42             2860 Packages.bz2
+ 739a2efeb55fc73029da00d23f0cfad3             2672 Packages.xz
+ 99da132110a5becba5a18a132041c942             2644 Packages.zst
+ c8a2e4c0c7ef13f2bc1041c7f3c58d63              204 Release
 SHA1:
- 6616d3df7d0cdeb566379d9516f7dc9d134cec95             8354 Packages
- 033bb5d309cbfca5955e4312ce9b1147ab6fe3b2             2872 Packages.bz2
- e2183b9711aea45de0b09384e138ef7d452e017f             2668 Packages.xz
- 99d8e939a74ed5d9623b6b5fa18b1f6a00f3f3c9             2644 Packages.zst
- 9aee4a5a49ed0e906bc27d3bc4535281735fd588              204 Release
+ 7a84d82b0147041aecf28d9a29b119d4721a76be             8354 Packages
+ ec2dd013769fe1857d937c4e3428f87c2c162a24             2860 Packages.bz2
+ d61f2ec6856aaf04a9677e31ce4a175c57558cca             2672 Packages.xz
+ 9c9cec53a6a0430bf90bfd53738f65ce76dad406             2644 Packages.zst
+ d208f3af5bac561db222bd5c2cbdbdc113ecd794              204 Release
 SHA256:
- 3df4899c97e27015a283d11ba095e7a82c77d9d9d4773842fc2ad8a55dac859b             8354 Packages
- 9a34890c5045763fca20568e3632c430698d12f671c5d273987840dac900f1fa             2872 Packages.bz2
- aa3823a65681514566b3b68bb59a649502395cd73730dd4097f155b9e4e62ea3             2668 Packages.xz
- c78b535800343194f0a21e4d1a81d37145628caf929e7018985db5fa780984a2             2644 Packages.zst
- 55ee98d303dc4ae6e9df52bc0973548409edc8f179e386fcadc186402edc8b7d              204 Release
+ ea8cb3c3d16a6bb3a98e15965bd0c487637fd7632bb0be5e17be099a82bc459c             8354 Packages
+ f6c6a1165a61ce344fd3bfa0dc25c7b511b2950eae618972ce380ca074f4dfd2             2860 Packages.bz2
+ 1f654e3e3bd10ec93be076e117f1d2537a9618b38f6c3fee1428da5a405fe6c4             2672 Packages.xz
+ 41db844683da9e89356cd3b12c524ff885b71ec434ed18487e27a49995fc7bde             2644 Packages.zst
+ f054f00bf462bd84e64dd809808a2a8c8e35a55fb0f9af4921486c29fb13fdf0              204 Release
 SHA512:
- 6657ca1363d1986e72b225c9409a924ee9ab4889d973df6c65f34ad821fc07da5fa5893c25efdcb2aeeba51801031bccc665c8548e858bc5cbcbd26c21087dcd             8354 Packages
- c751be21d971b65731e8adc53302e4a894c4304e71a1e3cb66c8a4dc9582d840e15028612cf0e01dbc31604344e0039a8a776ebf91a541ab7fd7115174aa0841             2872 Packages.bz2
- 6be4837e4b544b2d839afc1280a8a4c1881dae5a65bc060c993f811ddaa6913e05f1acdaefe8cd38ba99f77a71dc38d4c71798a278bbc3d816e63eccab86780d             2668 Packages.xz
- 5270a93d5bc858f9c144988a9dd601cc9f5ddf495a2e9358e731bc2534bec690ecb61b947ced1fbbb6fabf84d4af9f8724ada32fb1e479c498e28c1042dc92a2             2644 Packages.zst
- f237ead851f9d6aee41f3487d0133c4faeb4dfe0118ecbb2ea95e4f0f32227f5fc7a9096c6c5b8146b4c460c2e719d02b77c2036cfb713deb409e4af33210aed              204 Release
+ 256c628ad7c94ca3ee76e45e50337a38998bbf1461b6064356aa6492c65d551e5db878253095946cfd63800e563cec9e5c3c18c2574bc215bb76d944ed2300a4             8354 Packages
+ 98e15f1b7eed76c2d57f6287bba38a91ccf6b649e77a9410886c74ecd084588dac7ad9de595e14110b993bc603a99700db98654d6cb20cc946274117a1d50eb6             2860 Packages.bz2
+ 7c76e06181efb143f91b1f392bc8c9426c0002fb7983df39ef58dae792efd9cbea5a1ff525724eb585e8fbbeb0d85813fce1a973f090e776ebc6348c82026d43             2672 Packages.xz
+ 765379a6b588699bcf5c9abc969b2578e5daf524e08412949fb74f374297d2be437e4462774e2825ff100899bcf286f1d2752eba649b79e0b762a27110ac7f70             2644 Packages.zst
+ 58798ee29777631248758487754e076f9f7bdf84ac6fcb612a612f33f921f7c1bbc987a0143fa6cc8dfe724a27e8d466572c7b5fc06f69b509fcc62ce2794dbe              204 Release
