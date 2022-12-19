@@ -212,20 +212,20 @@ Description: wicked
 Name: wicked
 Author: zero
 
-Package: dev.zero.wickedrootless
+Package: dev.zero.wickedr
 Architecture: iphoneos-arm
 Version: 1.0.9
 Section: Development
 Maintainer: zero
-Installed-Size: 8408
+Installed-Size: 8180
 Depends: mobilesubstrate, dev.zero.wisp
-Replaces: dev.zero.wicked
-Filename: ./pool/dev.zero.wickedrootless_1.0.9_iphoneos-arm.deb
-Size: 3343068
-MD5sum: 9f557b75b90dd4be18610363002fca23
-SHA1: fe5fd03bb2a3181630e6a19cc3920a446cb6f0bf
-SHA256: 7a37830ac8221f8347f7fccee4c0b87d5f55d777437b0674ba77cd8cea03afec
-SHA512: 560130164ecd2fde1709d6c9a2bdb7496f1dc786a8321e977acb6fefb6e1b7abe77625cc1fbad2921d4696877a8fb33f2f0ec42c443f5981a296891eed4b51c5
+Replaces:
+Filename: ./pool/dev.zero.wickedr_1.0.9_iphoneos-arm.deb
+Size: 3302680
+MD5sum: 9241cea64d82dd8875a7ebf026002a86
+SHA1: bfd21e7063cf43737a2bcc98d5b7b5038d4fffe9
+SHA256: 2ad2968bec3d058a98c228c59423421569d522ccba52929d739d13ce84cb2481
+SHA512: b91c3030271719622c5dd8981e19dc994eb6208f6c53b411a4b3728fc858c04530554a080c5945a6908582f344946e32dccebb2331daf074158855bb6a15f4db
 Description: wicked
 Name: wicked(rootless)
 Author: zero
