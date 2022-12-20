@@ -214,18 +214,18 @@ Author: zero
 
 Package: dev.zero.wickedr
 Architecture: iphoneos-arm
-Version: 1.0.9
+Version: 2.0.0
 Section: Development
 Maintainer: zero
-Installed-Size: 8180
+Installed-Size: 8148
 Depends: mobilesubstrate, dev.zero.wisp
 Replaces:
-Filename: ./pool/dev.zero.wickedr_1.0.9_iphoneos-arm.deb
-Size: 3302680
-MD5sum: 9241cea64d82dd8875a7ebf026002a86
-SHA1: bfd21e7063cf43737a2bcc98d5b7b5038d4fffe9
-SHA256: 2ad2968bec3d058a98c228c59423421569d522ccba52929d739d13ce84cb2481
-SHA512: b91c3030271719622c5dd8981e19dc994eb6208f6c53b411a4b3728fc858c04530554a080c5945a6908582f344946e32dccebb2331daf074158855bb6a15f4db
+Filename: ./pool/dev.zero.wickedr_2.0.0_iphoneos-arm.deb
+Size: 3281582
+MD5sum: 8d5169af21a975365508e408445cd477
+SHA1: daf7394651ca0675163c9809eed6b0f003364c91
+SHA256: 3e7ceac21bf1481cfafcc6e7e6a61b7fc4a53e88178b042cd4541e34f41bfa6a
+SHA512: 51906be4f0d4ef83fcedbb3076e5b14674a9570e7e363451051acb5b7ef70a52f6d07f0252c465c086cc112b83733f8c86e1f1d8b82cb90b81522b4348f9f4ed
 Description: wicked
 Name: wicked(rootless)
 Author: zero
