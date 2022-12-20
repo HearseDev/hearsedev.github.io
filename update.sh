@@ -31,4 +31,5 @@ echo "[Repository] Finished"
 
 git add .
 git commit -m "update"
+git gc
 git push
