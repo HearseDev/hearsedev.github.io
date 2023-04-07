@@ -1,33 +1,33 @@
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Codename: ios
 Components: main
-Date: Wed, 21 Dec 2022 01:25:59 +0000
+Date: Fri, 07 Apr 2023 23:50:39 +0000
 Description: Hearse's Dump of Tweaks
 Label: Hearse's Repo
 Origin: Hearse's Repo
 Suite: stable
-Version: 1.0
+Version: 2.0
 MD5Sum:
  bf32f76bfb64dd3fe625704af2c8a23f             8950 Packages
  e7e648337e0d05a8623d88be10ae3a3e             3054 Packages.bz2
  185db2aaed194920d6ba0665c9b4d1c7             2868 Packages.xz
- 3b976d59fd7524e4678f341bf79b9be4             2842 Packages.zst
- 66201e60a638f79b6acc825e45b519d0              204 Release
+ 2171495b9da7ec25da3109adc8ea1be1             2825 Packages.zst
+ 6900c670c8f5de46b9d194163fa1be43              219 Release
 SHA1:
  a859727bd0106f46e1392b7c8ff1cd0c337fc9b4             8950 Packages
  ea22ce888398adbd86797661b472fd970c6fff30             3054 Packages.bz2
  965b7d7868ecd2ab68c855b48b53426e3e4d89f1             2868 Packages.xz
- 55b631a76971382e7b19ac36574b07968e5e5947             2842 Packages.zst
- 11d97300b2375acc27da87fcc488739ded6335fc              204 Release
+ b8e9953770853796d4851a9655f4a37e921892ab             2825 Packages.zst
+ ea902ce4f8042d91775a3105e9c1d1d2cc0b7eef              219 Release
 SHA256:
  ed6f754fdb5cc538bc5df119d3b62340600a902325746cd26e415a504d7cd984             8950 Packages
  b14bd0725bf25a0aa7c147ec1e621e346ef98ebae18c4f5a07d15de597b961dc             3054 Packages.bz2
  9c3926c229c75736d223f4e4ef14f51564c817a848fe1f359477d1416133a81a             2868 Packages.xz
- 084ce927b425c16501a3cbdbbbb516caa58297a5566737abe95c1fb4b4668490             2842 Packages.zst
- c96175adb9a358c410d7a824fb8c87385d9ef09d5d6328fae555598a29e4bbea              204 Release
+ 272834261cf4f973113c2a3c35e04243e332e39c9ca5ee2527b80eac0b2f4e15             2825 Packages.zst
+ 37005b2f2b35b815f41737718f065b413481f2e8721bf66d568d418166508b55              219 Release
 SHA512:
  20eb5965d8558d8018d3e42ad86ccd33d0f28a26c0abbac02987bcac9bcca3200c19da63cc1e05c2e13267a552614993e85e0030407956c347e4b5f7e047b0bf             8950 Packages
  8e69b25ce671e3750cd924552b43cb28ca2d901159becd50084199069e0dc4b0a6c362073c4c881c9f4ea9e163219a40e68ac38276e33c3dac678f6fdd2c3262             3054 Packages.bz2
  dc90f18eeed4e70e2abb208066d35f00b6d35aa86ebc804ed83babc1d11743ff1a55604f70bc4391bbba21e7a1feb9e03bd69154a105faf8fac3f55d036bd42e             2868 Packages.xz
- 4cd326b309df8ad92c5f1358cdea03a8e5f821db07ec74eb6b33763f5a3edbb2a1a21d07f7e5acec3a29c32cefe11de2e9669b9e4247efb575cc2583ccb222de             2842 Packages.zst
- 9225e6a152dd07a015f65884f430afefdf153eb374583d9cf425d2d511f27ec1d62d47582586be2411bd2adeb5b62ab9bb8f2edf28767c6afb52e06654dbb886              204 Release
+ cd7ba9327c86286dc20ad353f8b709ea4773a47cbd4ec7fb2f87e7fbf42a2c607a7a8f31431adba722694ceb6929d3bcdb18c8f4e8e54e71b2e7e5d57169b0f9             2825 Packages.zst
+ f6eb9ad569c95b739329ce6f6eb7cbe22fd3612c8f3c00a87c1d72b4e22c79cc0a982bf0f050679538ce9033bfa38bf889c38717745b5bcf7217cfa23ac2c06a              219 Release

@@ -10,7 +10,7 @@ echo "[Repository] Creating Docker Container..."
 docker run --name repo -dit -v ${PWD}:/data ubuntu
 
 echo "[Repository] Updating Docker Container and Installing Utils..."
-docker exec -it repo bash -c "(apt-get update; apt-get install apt-utils)"
+docker exec -it repo bash -c "(apt-get update -y; apt-get install apt-utils -y)"
 
 docker exec -it repo bash -c "(cd data; apt-ftparchive packages ./pool > Packages)"
 zstd -q -c19 Packages > Packages.zst
@@ -18,7 +18,7 @@ xz -c9 Packages > Packages.xz
 bzip2 -c9 Packages > Packages.bz2
 
 echo "[Repository] Generating Release..."
-docker exec -it repo bash -c "(cd data; apt-ftparchive -o APT::FTPArchive::Release::Origin=\"Hearse's Repo\" -o APT::FTPArchive::Release::Label=\"Hearse's Repo\" -o APT::FTPArchive::Release::Suite=\"stable\" -o APT::FTPArchive::Release::Version=\"1.0\" -o APT::FTPArchive::Release::Codename=\"ios\" -o APT::FTPArchive::Release::Architectures=\"iphoneos-arm\" -o APT::FTPArchive::Release::Components=\"main\" -o APT::FTPArchive::Release::Description=\"Hearse's Dump of Tweaks\" release . > Release)"
+docker exec -it repo bash -c "(cd data; apt-ftparchive -o APT::FTPArchive::Release::Origin=\"Hearse's Repo\" -o APT::FTPArchive::Release::Label=\"Hearse's Repo\" -o APT::FTPArchive::Release::Suite=\"stable\" -o APT::FTPArchive::Release::Version=\"2.0\" -o APT::FTPArchive::Release::Codename=\"ios\" -o APT::FTPArchive::Release::Architectures=\"iphoneos-arm iphoneos-arm64\" -o APT::FTPArchive::Release::Components=\"main\" -o APT::FTPArchive::Release::Description=\"Hearse's Dump of Tweaks\" release . > Release)"
 
 echo "[Repository] Deleting Docker Container"
 docker rm -f repo
