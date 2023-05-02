@@ -261,3 +261,18 @@ Description: Tool for decrypting iOS apps and Mach-O binaries.
 Name: flexdecrypt
 Author: John Coates
 
+Package: libflex
+Architecture: iphoneos-arm64
+Version: 5.22.10
+Section: Tools
+Maintainer: Tanner Bennett
+Filename: ./pool/libflex-iphoneos-arm64.deb
+Size: 3658390
+MD5sum: b8d926989c51d1586f7115f35606fa75
+SHA1: a773352af5f0ff991a59ad6faaaf1300ce0c5635
+SHA256: 2925c1603ad8d9279173bad62f52e537982de98d0320826451cdc0c0be0f13df
+SHA512: 1668b1c9cf81e0b602084186e16ec3023da83c5d7b95e576bf478165ee4efb102e864eb61ac69135bf9a05a95c3f3c639c31c2155d422d296edde727e44659f4
+Description: libFLEX
+Name: libFLEX
+Author: Tanner Bennett
+
