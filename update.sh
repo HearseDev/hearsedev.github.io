@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 script_full_path=$(dirname "$0")
 cd $script_full_path || exit 1
 
