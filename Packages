@@ -176,6 +176,27 @@ Description: The best twitch tweak there is!
 Name: TwitchToolbox
 Author: Hearse
 
+Package: com.pantsthief.flexing
+Architecture: iphoneos-arm64
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 280
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./pool/com.pantsthief.flexing_1.5.0_iphoneos-arm64.deb
+Size: 16430
+MD5sum: 5e40cef1d073951967ac9759e26dabf5
+SHA1: d3e62c2b361878bf9c4f74dde03f891e198d7e57
+SHA256: 255faea6dff566e7be7340c251caeacbb0518e574d0e14d326170f4fbb44d1d1
+SHA512: 4eb098d010d667ae994e16883231d623015857a114511b8635e9c7710406f5b6c1a44e34f654e82d8182a407b1d3660ceea63934edf41a4a95dcdbe6bea78878
+Description: Open FLEX anywhere!
+Name: FLEXing
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+SileoDepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
 Package: dev.zero.whizz
 Architecture: iphoneos-arm
 Version: 1.0
