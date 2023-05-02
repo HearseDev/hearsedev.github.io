@@ -186,11 +186,11 @@ Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
 Filename: ./pool/com.pantsthief.flexing_1.5.0_iphoneos-arm64.deb
-Size: 16430
-MD5sum: 5e40cef1d073951967ac9759e26dabf5
-SHA1: d3e62c2b361878bf9c4f74dde03f891e198d7e57
-SHA256: 255faea6dff566e7be7340c251caeacbb0518e574d0e14d326170f4fbb44d1d1
-SHA512: 4eb098d010d667ae994e16883231d623015857a114511b8635e9c7710406f5b6c1a44e34f654e82d8182a407b1d3660ceea63934edf41a4a95dcdbe6bea78878
+Size: 16428
+MD5sum: d9898e46dab38a19eec60a8784c34bfe
+SHA1: ea3bdf840ae4af2477d6be67f01fa5cfdb7d2e57
+SHA256: b50df1a9ea63fc0921d5ffc9692c56b9853ab67d01dd7d67293fa8784cc0c2b2
+SHA512: 567c6c97321125fdbfa267de281fa6f94ece9d43bf83d0b9df71d8d0c6c56bbc5a2fd4ae9ad88ab765f32205432dfaecdd6aeac8bb054bfa2f98da4db941a48a
 Description: Open FLEX anywhere!
 Name: FLEXing
 Author: Tanner Bennett <thepantsthief@me.com>
