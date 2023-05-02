@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Components: main
+Date: Tue, 02 May 2023 05:48:30 +0000
+Description: Hearse's Dump of Tweaks
+Label: Hearse's Repo
+Origin: Hearse's Repo
+Suite: stable
+Version: 2.0
+MD5Sum:
+ 06a17a5ae05d509c5e812e2315cd182d            10222 Packages
+ 238e52dd796f72718b6b1db024c6904d             3505 Packages.bz2
+ d8f784941abed439890f034522f807d8             3296 Packages.xz
+ 4e10802558c044ab425d2d605991fa40             3251 Packages.zst
+ 4f7b305b7f11cd64808cc826b49a3afe              219 Release
+SHA1:
+ 0c421d9969ac3ee6a72c4cf31055c6820ccbb218            10222 Packages
+ af48fbefe6085ec7121768d3bad93d94cd89bff5             3505 Packages.bz2
+ c4d30cbfadc712971e16abc1aba8e337b1302192             3296 Packages.xz
+ 13488f55e23bec965154bf4d2c34e9abf22f1d3a             3251 Packages.zst
+ 40114433cac871699c3f67dbbf2911098b9c6d9d              219 Release
+SHA256:
+ 1e7e47e1bddbb6a6035b295973858f7cfba7ac62298aca61f1ee1a53ac994aa0            10222 Packages
+ d6e3625b262661a137ec429e6d77b5096a386f4db437b14de222218fb37f19af             3505 Packages.bz2
+ e54b7779cc67717f86d186d233f6a024004de8eae28fc4d44651aaa047635504             3296 Packages.xz
+ 2200554411aa884e68f46cf27b8d3f97d8fd1f0f18ba0269de56b9f6c029ce30             3251 Packages.zst
+ e6f21c76873684f591925e705a2470393502a74c7654cf55b0cc832ffe0174cb              219 Release
+SHA512:
+ 262a4c049acdf7641707c926976bd2f9f8b45ab18b92bccd09a4fbc79125d68f52162c19ec4553f7ab32acb43d594dc0e53671e52d5f90c64b34bb8d5d5f3ea6            10222 Packages
+ 7b41e59e600737aecf58898e93d6d2bf32fc5b00293820c76d286734175e06ce6094ad0d58108b42b4c656a3a32d9a74b640b0a2c62f003de948b04e7d8800fa             3505 Packages.bz2
+ 37bb2245fd9746121dcd879a8d4cdbec9f6925180219fffb539acfeacd7cc1fd4d7575c6d00d293912c12c9ae8fe4017705dad8b25a39bff01f59fc846829ba4             3296 Packages.xz
+ d1d6b2a13df3e8d165c96b2621a5fd695fab26ffddbc5edfff02f7e7ddfbe6a374d53c6f63834e2ea799d6796b3c3b0389fb54e7e82d5fd854b3be82a4757afa             3251 Packages.zst
+ d1c25ef8ae577115fb865197ee80a4c4dd1eeb323620bf4e883d335403ed9e96693f3f4ca214fe3b995efaeeef73327e794ec03f7b2025cfbb28579739fc34ed              219 Release
