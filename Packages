@@ -17,18 +17,18 @@ Author: Hearse
 
 Package: dev.zero.wicked
 Architecture: iphoneos-arm
-Version: 2.0.3
+Version: 2.0.3a
 Section: Development
 Maintainer: zero
-Installed-Size: 8284
+Installed-Size: 8268
 Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
 Replaces:
-Filename: ./pool/dev.zero.wicked_2.0.3_iphoneos-arm.deb
-Size: 3275094
-MD5sum: 430d227196f9bbd79b0d1816f6bb53f8
-SHA1: 2acbaf369b869e4322e0db94cb1321554a20b4c5
-SHA256: 13bcddb94757db01179f05d03f8354913937be8736bea6483b4c8529e063d052
-SHA512: 5dc4b9fee6b0710c89da5ba3e5c4a1cc42ea8c6b5dbc6bc3563a01fc3d2f585def059f13617a1dec1eff839ba92cfedd0a8bef38b8018d4215b591a74e698fca
+Filename: ./pool/dev.zero.wicked_2.0.3a_iphoneos-arm.deb
+Size: 3272532
+MD5sum: deef2a630fb0a94ac44fd164b62282d6
+SHA1: db93c88774ff807d07ad3528bf397ebfc3a583fe
+SHA256: 3383121956a2485074ad017fb90564857ae7e755769363781c779474b9485f08
+SHA512: dfe3d9797239df500b360ee55bdc776ec4a2040ef3ac8cbbb30c68f5cd0cd60bf93404f0c67626ab2ae1919ae31d6348bf9e730d2829d49acf16ec62b34b0567
 Description: wicked
 Name: wicked
 Author: zero
@@ -36,18 +36,18 @@ Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak
 
 Package: dev.zero.wicked
 Architecture: iphoneos-arm64
-Version: 2.0.3
+Version: 2.0.3a
 Section: Development
 Maintainer: zero
-Installed-Size: 8268
+Installed-Size: 8252
 Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
 Replaces:
-Filename: ./pool/dev.zero.wicked_2.0.3_iphoneos-arm64.deb
-Size: 3269152
-MD5sum: 404273abf1bd04ea7b93cebdb1bd4ada
-SHA1: bced020e80155e2226184b3c00d98a08bbd92791
-SHA256: 3149b8c8f76c178627a0e4c866388cb1ebeacbd6ffc8c2911e2958d3427b2f34
-SHA512: 97733cad5d95435c3d1f3c1931acff75aac3186ee689b7bc2775da5672e52a2af068350f9195ffb30d9addc4cce7cfc5b3f9e787450ca50c1c5794e096bcca46
+Filename: ./pool/dev.zero.wicked_2.0.3a_iphoneos-arm64.deb
+Size: 3269720
+MD5sum: 2e872cde0d1b9fa0c88824d8b5774bf5
+SHA1: 67cee6b484c17acf24dc708b3e5d5b8f74e080c8
+SHA256: 40538f75c8fa90bac1ab652031960bfee796b785aa4e35f3210b07e3c8d7587e
+SHA512: daabd4f1091578e561e4d4b935b9e88b14235cae2174455982c79fbe90646862f45fb115901f119b226aee9bb6a061ecc6b59823b3bc625d58155caafd618321
 Description: wicked
 Name: wicked
 Author: zero
@@ -61,11 +61,11 @@ Maintainer: zero
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5.000)
 Filename: ./pool/dev.zero.wisp_2.0.3_iphoneos-arm.deb
-Size: 6182
-MD5sum: c0c84d26e2798f5def31523e26e4dee4
-SHA1: 4d797bf900cd1fdda92e69bafc5ae8bcde12fc1e
-SHA256: efc39eb6f3ff5f903e314192d38cd6fab7b828a914299c41acb33413bdf95061
-SHA512: aa72e2865bbc9f620395e0f66e543f16e4e7ff2641ce669614dd3ce6b0a91fbe60bd345326929b00d9b08b3cea5ec0aff3c3a94d94e222d3bff7fa840017eede
+Size: 6184
+MD5sum: c6ae1f6c5d31cee45424254401a16600
+SHA1: 7d18e76dfd72c29ca82b62b69d06885d3203c42d
+SHA256: 817ec596a2c335d858e9fe2971b8000ed34a44e076ed56ede9ab91544dd43fd2
+SHA512: 8cadd3fb5deddea13429e0d766bbe22b5281f798e08190390fa23f43963aafd3d955a563713d79386a4d06d8bd23573a364245db342343b73d56caed15ba021f
 Description: wisp
 Name: wisp
 Author: zero
@@ -79,11 +79,11 @@ Maintainer: zero
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5.000)
 Filename: ./pool/dev.zero.wisp_2.0.3_iphoneos-arm64.deb
-Size: 6248
-MD5sum: a546bd1aeac245857a7da3f14a0f27f5
-SHA1: 5029b31b8e46e8a4b04a47e6603b461d59a7abae
-SHA256: 1a00d358388992b8d00c857bc782de49c7565ef22ab1294b4646999f6cde43d5
-SHA512: d97600c7c49c05ab0e3347a03f427dbedf1aa35561ac794af8d46eae20a58ee8e54463e9442c2cecb258ef398810671aef2303e681e6d91e5869be685e7854d5
+Size: 6242
+MD5sum: 663366aeb9728f4ad016e923ad28d6e3
+SHA1: 0ac88cf13451b4b472261bc88c937776abb5797f
+SHA256: 6672210bdff965f3a96149e19aaecd6ff86678b419b1d5c23a5ee11133a38de5
+SHA512: 03659768c981f98ec29cda834a5f40c6ba5d0f9b61bf88ee92a9a5b457e409c38d673e3e8e5116e22a8dbae4b688fe672fcfb3406421dc259b5fef25a4787308
 Description: wisp
 Name: wisp
 Author: zero
