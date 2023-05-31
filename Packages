@@ -15,3 +15,77 @@ Description: Slow Motion functionality for the Photos App
 Name: SlowMo
 Author: Hearse
 
+Package: dev.zero.wicked
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Development
+Maintainer: zero
+Installed-Size: 8284
+Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
+Replaces:
+Filename: ./pool/dev.zero.wicked_2.0.3_iphoneos-arm.deb
+Size: 3275094
+MD5sum: 430d227196f9bbd79b0d1816f6bb53f8
+SHA1: 2acbaf369b869e4322e0db94cb1321554a20b4c5
+SHA256: 13bcddb94757db01179f05d03f8354913937be8736bea6483b4c8529e063d052
+SHA512: 5dc4b9fee6b0710c89da5ba3e5c4a1cc42ea8c6b5dbc6bc3563a01fc3d2f585def059f13617a1dec1eff839ba92cfedd0a8bef38b8018d4215b591a74e698fca
+Description: wicked
+Name: wicked
+Author: zero
+Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
+
+Package: dev.zero.wicked
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: Development
+Maintainer: zero
+Installed-Size: 8268
+Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
+Replaces:
+Filename: ./pool/dev.zero.wicked_2.0.3_iphoneos-arm64.deb
+Size: 3269152
+MD5sum: 404273abf1bd04ea7b93cebdb1bd4ada
+SHA1: bced020e80155e2226184b3c00d98a08bbd92791
+SHA256: 3149b8c8f76c178627a0e4c866388cb1ebeacbd6ffc8c2911e2958d3427b2f34
+SHA512: 97733cad5d95435c3d1f3c1931acff75aac3186ee689b7bc2775da5672e52a2af068350f9195ffb30d9addc4cce7cfc5b3f9e787450ca50c1c5794e096bcca46
+Description: wicked
+Name: wicked
+Author: zero
+Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
+
+Package: dev.zero.wisp
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Development
+Maintainer: zero
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5.000)
+Filename: ./pool/dev.zero.wisp_2.0.3_iphoneos-arm.deb
+Size: 6182
+MD5sum: c0c84d26e2798f5def31523e26e4dee4
+SHA1: 4d797bf900cd1fdda92e69bafc5ae8bcde12fc1e
+SHA256: efc39eb6f3ff5f903e314192d38cd6fab7b828a914299c41acb33413bdf95061
+SHA512: aa72e2865bbc9f620395e0f66e543f16e4e7ff2641ce669614dd3ce6b0a91fbe60bd345326929b00d9b08b3cea5ec0aff3c3a94d94e222d3bff7fa840017eede
+Description: wisp
+Name: wisp
+Author: zero
+Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wisp_2048x2048.png
+
+Package: dev.zero.wisp
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: Development
+Maintainer: zero
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5.000)
+Filename: ./pool/dev.zero.wisp_2.0.3_iphoneos-arm64.deb
+Size: 6248
+MD5sum: a546bd1aeac245857a7da3f14a0f27f5
+SHA1: 5029b31b8e46e8a4b04a47e6603b461d59a7abae
+SHA256: 1a00d358388992b8d00c857bc782de49c7565ef22ab1294b4646999f6cde43d5
+SHA512: d97600c7c49c05ab0e3347a03f427dbedf1aa35561ac794af8d46eae20a58ee8e54463e9442c2cecb258ef398810671aef2303e681e6d91e5869be685e7854d5
+Description: wisp
+Name: wisp
+Author: zero
+Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wisp_2048x2048.png
+
