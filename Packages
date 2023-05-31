@@ -15,6 +15,24 @@ Description: Slow Motion functionality for the Photos App
 Name: SlowMo
 Author: Hearse
 
+Package: dev.zero.whizz
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Development
+Maintainer: zero
+Installed-Size: 580
+Depends: mobilesubstrate, dev.zero.wisp
+Replaces:
+Filename: ./pool/dev.zero.whizz_1.0_iphoneos-arm.deb
+Size: 182384
+MD5sum: 197e0488b22f2a13654faaefd1a910da
+SHA1: 23183b3c542625b90332c02866f481fe3bae41bb
+SHA256: 2df8d60533c69cb6fe1062f11fac303eaa6806910833891b8d6441050fd2d0c3
+SHA512: 2af195e9ba7eb4facb29ea2b4be1cb2ac26658e1b60fd926859fcd089baab63d8ed43aab771db709bfc23d33716abfb3ac8dd2f1251e57b6533e33c0af571980
+Description: whizz but never jizz
+Name: whizz
+Author: zero
+
 Package: dev.zero.wicked
 Architecture: iphoneos-arm
 Version: 2.0.3a
