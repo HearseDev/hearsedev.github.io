@@ -33,6 +33,24 @@ Description: whizz but never jizz
 Name: whizz
 Author: zero
 
+Package: dev.zero.whizz
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Development
+Maintainer: zero
+Installed-Size: 92
+Depends: mobilesubstrate, dev.zero.wisp
+Replaces:
+Filename: ./pool/dev.zero.whizz_1.0_iphoneos-arm64.deb
+Size: 6608
+MD5sum: ffd63e6b147b59af0717098db831afc5
+SHA1: ff775429c96feee59ba1c8f4016183dc678ad94e
+SHA256: 12aca6ecc13a345843754625905cc34c243e1ee1bdd9ccb014db115b0036d0eb
+SHA512: 872e35834e318fcf24ecfef8341af9f1849f420fc8ebf2fcf86de857f2a6ca38c35e9ace23f8e92378d597ee40203ca7fed40e9ed26fd1ca8f402adda5ecf62c
+Description: whizz but never jizz
+Name: whizz
+Author: zero
+
 Package: dev.zero.wicked
 Architecture: iphoneos-arm
 Version: 2.0.3a
