@@ -3,15 +3,15 @@ Architecture: iphoneos-arm
 Version: 2.0.6
 Section: Development
 Maintainer: zero
-Installed-Size: 13976
+Installed-Size: 13992
 Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
 Replaces:
 Filename: ./pool/dev.zero.wicked_2.0.6_iphoneos-arm.deb
-Size: 6018024
-MD5sum: bb03677775c92135f597966b29f11ede
-SHA1: fc3c4becb0fe2927afba7ef0d34dac60ee42c272
-SHA256: 69cb7dfd40736f25256c61b3030003a6641140a6e7593e414cf2225aca10762a
-SHA512: 37a212688bc120af06bf0756234eaa90f7b5a67f1f689a12c25f9d9484c6c3125a72914fc4e7c36a441a225c85696e736e8b71a876000b61f70797de5a7dc74a
+Size: 6013090
+MD5sum: 0561ebb48b9672cfc26c6e0e1d07c5e4
+SHA1: 0140b47327b657ce4b1efa86cd92318e57d59f6b
+SHA256: 21faa60e78ce1cf93eec908230f7b2b7a01da046f30c3a80c89f263ab78dbe1d
+SHA512: 87ea273d3ca9e2eee0a9bf779789a483431cc657efd30a7038d00e7d9d8cfa986d119c0e185923660a95a671850e6223a7e944fe5d439b72290dd0bea98915ef
 Description: wicked
 Name: wicked
 Author: zero
@@ -22,15 +22,15 @@ Architecture: iphoneos-arm64
 Version: 2.0.6
 Section: Development
 Maintainer: zero
-Installed-Size: 13960
+Installed-Size: 14024
 Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
 Replaces:
 Filename: ./pool/dev.zero.wicked_2.0.6_iphoneos-arm64.deb
-Size: 6000890
-MD5sum: 7dee2829f3ce8f15e331d6db8909b6ef
-SHA1: 3937ca4e4223ceb3d908ee847848372bb9953af5
-SHA256: 760180d46da5e3b23921977a5369c6b0d907a685116db4fa2b4bcbaf123896bc
-SHA512: d540d06c6c75d3120b0a16bea1386dd99e55d7ad88659538f1fa3daed15079f756dda2f7abab7048bf9daf655a207a8f8012077c76dc11e779ebb98450cc8aef
+Size: 6051144
+MD5sum: e4cc8c63a38e1e8707ec830bcbc4ec03
+SHA1: c5863e0b8dd2d452691a3c5b708b76eff5281e8d
+SHA256: 69c03d52b0d049683c8a30fff09f20efaffd4c1fd34529bda301a7856bcb6faa
+SHA512: 1e27afc331b1567d211c79f72f56f8ac83042db367e091bc04f299cf741ad395a4e2f5af8fd4a6328d76f5136a1f34b9e0a3e5016313ee1f81d768710aabab54
 Description: wicked
 Name: wicked
 Author: zero
