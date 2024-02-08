@@ -49,19 +49,9 @@ bzip2 -c9 Packages >Packages.bz2
 echo "[Repository] Generating Release..."
 apt-ftparchive release -c ./repo.conf . > Release
 
-# apt-ftparchive \
-# 		-o APT::FTPArchive::Release::Origin="Hearse's Repo" \
-# 		-o APT::FTPArchive::Release::Label="Hearse" \
-# 		-o APT::FTPArchive::Release::Suite="stable" \
-# 		-o APT::FTPArchive::Release::Version="2.0" \
-# 		-o APT::FTPArchive::Release::Codename="ios" \
-# 		-o APT::FTPArchive::Release::Architectures="iphoneos-arm iphoneos-arm64" \
-# 		-o APT::FTPArchive::Release::Components="main" \
-# 		-o APT::FTPArchive::Release::Description="Hearse's Dump of Tweaks" \
-# 		release . > Release
 echo "[Repository] Signing Release using Hearse's GPG Key..."
-# gpg --passphrase-fd 0 -abs -u CA1E55A06D1AB4CB77DE813873A412BA64BC84B9 -o Release.gpg Release < passphrase.txt
 gpg --passphrase-file passphrase.txt --pinentry-mode loopback -abs -u 7F33B352AB8C52031DF9F319AEE471C6270B1B6B -o Release.gpg Release
+
 echo "[Repository] Finished"
 
 echo "[Repository] Pushing upstream"
