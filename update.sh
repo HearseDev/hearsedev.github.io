@@ -22,6 +22,7 @@ elif [[ "$OSTYPE" == "darwin"* ]]; then
 	if ! is_installed apt-ftparchive; then
 		echo "Installing apt-ftparchive"
 		ensure_installed curl
+		ensure_installed brew
 		sudo curl -L -O --output-dir /usr/local/bin https://apt.procurs.us/apt-ftparchive && sudo chmod +x /usr/local/bin/apt-ftparchive
 		echo "Installed apt-ftparchive"
 	fi
