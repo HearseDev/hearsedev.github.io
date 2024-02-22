@@ -1,17 +1,17 @@
 Package: dev.zero.wicked
 Architecture: iphoneos-arm
-Version: 2.0.8
+Version: 2.0.9
 Section: Development
 Maintainer: zero
-Installed-Size: 17700
+Installed-Size: 21940
 Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
 Replaces:
-Filename: ./pool/dev.zero.wicked_2.0.8_iphoneos-arm.deb
-Size: 6765950
-MD5sum: 7c1fbe0e5aacd6ee1bc0480880216938
-SHA1: 3d678a5e387a8ee004f8748e5af8af04ae9ecf3f
-SHA256: 4b675cbe429d4f852e67f663fb6ae8fc047fb4b565e5c524a618a82692ad58b0
-SHA512: eb6fe49ee5e2cae81519b27ce992fd515c2dba60bfed6c37fc54e4e6ea22d26bde257e536286572d7ecda6009f97f0e5ca40d4dccebbe25705132ede76ce0032
+Filename: ./pool/dev.zero.wicked_2.0.9_iphoneos-arm.deb
+Size: 8120032
+MD5sum: 4b529ae8ff0240e3f841f6b9caba5b73
+SHA1: e4fe6340a395bcf288b242b2d7c07ce6bdfeca2b
+SHA256: e04b2e92538cb520c56c53802ade7b3901ab394fa1938a6dc1d86d35361c6e16
+SHA512: af6588b7bab2c4067c55147300d0194b42f54fe7a5b8f2301e3950f1426e0858983fcfe1faba03f10247201fd7c457a44b46adcf18dc8715ac7c0a41178f310a
 Description: wicked
 Name: wicked
 Author: zero
@@ -19,18 +19,18 @@ Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak
 
 Package: dev.zero.wicked
 Architecture: iphoneos-arm64
-Version: 2.0.8
+Version: 2.0.9
 Section: Development
 Maintainer: zero
-Installed-Size: 17652
+Installed-Size: 21956
 Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
 Replaces:
-Filename: ./pool/dev.zero.wicked_2.0.8_iphoneos-arm64.deb
-Size: 6746994
-MD5sum: 932eb0b727adb714294bf15b81b6e5f4
-SHA1: 4a8bdf9341b2b8f2360aae17635ebf93dbcc3ee1
-SHA256: d953390d6867e47c209c9332dc84bc8ddd50b60431b16fc76c9e130b218d9507
-SHA512: 75a2fa8bcc97d401ddbf68b78b46c74b393f691be7f6b4e2f6a5f4aacdfe3e647c252cb123eaf48e9ffa3fa76845723718fdb1ccff0323c789ebc0fb2a898830
+Filename: ./pool/dev.zero.wicked_2.0.9_iphoneos-arm64.deb
+Size: 8129182
+MD5sum: 5c93e7fe461e29e808576ebc6df485d4
+SHA1: 674d06636c96443f2b2799882f223ccf3b04d4ad
+SHA256: 035aaa5c82f2e99651b2f3de5c74da2d8acb1e4a87a5284afa5f05f1e350b1d5
+SHA512: 0354afc2dcf12269bd6eb48a3e35df1d2c5128e865d0dba96de467cf216f1af4342bcc6696323f4deba65d5c8445af8b2045412a20fb8370d53abe7e51151105
 Description: wicked
 Name: wicked
 Author: zero
