@@ -44,11 +44,11 @@ Maintainer: zero
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5.000)
 Filename: ./pool/dev.zero.wisp_2.0.3_iphoneos-arm.deb
-Size: 6184
-MD5sum: c6ae1f6c5d31cee45424254401a16600
-SHA1: 7d18e76dfd72c29ca82b62b69d06885d3203c42d
-SHA256: 817ec596a2c335d858e9fe2971b8000ed34a44e076ed56ede9ab91544dd43fd2
-SHA512: 8cadd3fb5deddea13429e0d766bbe22b5281f798e08190390fa23f43963aafd3d955a563713d79386a4d06d8bd23573a364245db342343b73d56caed15ba021f
+Size: 6164
+MD5sum: 5e6f858c0975f9e44114a74844c0c904
+SHA1: 8803ecded97c49e9788067f03f4bc41b7540f246
+SHA256: 5d42d39222d5c8fab90888f2e014c3639686999599d0b8dc350fdd2a886ad850
+SHA512: 56a03ac4d1d344a8155d82f37bed65fcae7b4df835bd247f3a93d2e85624d1d5f41da43f5a68ab4230ec9b92ad24410871e06c5e1f1b745af5277e343fab902c
 Description: wisp
 Name: wisp
 Author: zero
@@ -59,14 +59,14 @@ Architecture: iphoneos-arm64
 Version: 2.0.3
 Section: Development
 Maintainer: zero
-Installed-Size: 88
+Installed-Size: 84
 Depends: mobilesubstrate (>= 0.9.5.000)
 Filename: ./pool/dev.zero.wisp_2.0.3_iphoneos-arm64.deb
-Size: 6242
-MD5sum: 663366aeb9728f4ad016e923ad28d6e3
-SHA1: 0ac88cf13451b4b472261bc88c937776abb5797f
-SHA256: 6672210bdff965f3a96149e19aaecd6ff86678b419b1d5c23a5ee11133a38de5
-SHA512: 03659768c981f98ec29cda834a5f40c6ba5d0f9b61bf88ee92a9a5b457e409c38d673e3e8e5116e22a8dbae4b688fe672fcfb3406421dc259b5fef25a4787308
+Size: 5880
+MD5sum: f041902e1c1522d1e3cd7ff12fee317d
+SHA1: b4597ebd6830ee8a23c00f4d2ed7f04e690d3cda
+SHA256: af19ca03ebd6c9f638132f9dd6ebd2ad176ca220593b5b5127b2c056dc69760d
+SHA512: c2438d25b68445d6addd64753ea3b99caf9c5c0dd4236dbb67867f06cbd06f882ce2f203c40f70deafdbcc7cdc292d19addfe13293ac39931d37ef2bb91729b3
 Description: wisp
 Name: wisp
 Author: zero
