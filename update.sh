@@ -41,14 +41,14 @@ echo "[Repository] Cleaning..."
 rm -f Packages Packages.bz2 Packages.xz Packages.zst Release Release.gpg
 
 echo "[Repository] Generating Packages..."
-apt-ftparchive packages ./pool > Packages
+apt-ftparchive packages ./pool >Packages
 
 zstd -q -c19 Packages >Packages.zst
 xz -c9 Packages >Packages.xz
 bzip2 -c9 Packages >Packages.bz2
 
 echo "[Repository] Generating Release..."
-apt-ftparchive release -c ./repo.conf . > Release
+apt-ftparchive release -c ./repo.conf . >Release
 
 echo "[Repository] Signing Release using Hearse's GPG Key..."
 gpg --passphrase-file passphrase.txt --pinentry-mode loopback -abs -u 7F33B352AB8C52031DF9F319AEE471C6270B1B6B -o Release.gpg Release
