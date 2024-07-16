@@ -1,17 +1,17 @@
 Package: dev.zero.wicked
 Architecture: iphoneos-arm
-Version: 3.0b3
+Version: 3.0b4
 Section: Development
 Maintainer: zero
-Installed-Size: 21668
-Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
+Installed-Size: 21312
+Depends: dev.zero.wisp(= 2.0.3)
 Replaces:
-Filename: ./pool/dev.zero.wicked_3.0b3_iphoneos-arm.deb
-Size: 7953952
-MD5sum: d7fe1528cd1f9afa03d20581ec63ebf3
-SHA1: c4cc5de51dad44c10e718371797830761954ab76
-SHA256: 136166c957fc5f369ad1e946b7a508176db32f3ea5bf2b26d8b686d392926b1a
-SHA512: 16d276fce505a9ed37f655c52fddc62ef55d143c9ecf1d03b2298b424c4009f8a07317ef71e68b7d5e8974943b2ebd02fd28e04f70378113d849ba5d65ce68b1
+Filename: ./pool/dev.zero.wicked_3.0b4_iphoneos-arm.deb
+Size: 8132084
+MD5sum: b562f283204d7df079f36b40ec28ddb0
+SHA1: 7b5e2c5a70d94aab6cf07521b2dd7dfef8bf1893
+SHA256: 749907e4e24fab477e5f5a581a3e064f6907ff4f8b60334dd69129a6027d5333
+SHA512: a7bdf82d9e11967e02a0e5a540453d82ad7cb75284905e1a28dbc9b7b198dfc51190490a3f7e7f773cbba05d7791f4b070e9c5678dbbb1bacc7361529f126193
 Description: wicked
 Name: wicked
 Author: zero
@@ -19,18 +19,18 @@ Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak
 
 Package: dev.zero.wicked
 Architecture: iphoneos-arm64
-Version: 3.0b3
+Version: 3.0b4
 Section: Development
 Maintainer: zero
-Installed-Size: 21716
-Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3)
+Installed-Size: 21264
+Depends: dev.zero.wisp(= 2.0.3)
 Replaces:
-Filename: ./pool/dev.zero.wicked_3.0b3_iphoneos-arm64.deb
-Size: 7996976
-MD5sum: b084a61e7c56d020e2a0b994c209d93b
-SHA1: 66a8e058be5123d3ece8eeca85c7e39b9dd3f30b
-SHA256: 658a7d6e7fd26a261b42368df37784bf7cfff106fd0afae245dac0ed8277e2d7
-SHA512: b3d8557fb665b46805e05935f9d49357a7b116ef6659f86a5d34486db0292a2d9df84f75ce3ace52db4d1a32d849adbf2d3fe952a2616b4b2cc60a0d8b449f44
+Filename: ./pool/dev.zero.wicked_3.0b4_iphoneos-arm64.deb
+Size: 8076932
+MD5sum: 1bd182f30464e690f47c88faceaa7220
+SHA1: 2cf54a6331c90c9e231bdf36ca758287a0520277
+SHA256: 7e78c39aa192e23e266ca610672ad322297e140fbfe8ff43d357b3ffb5769014
+SHA512: 32e1a4960536ca49d1297b085b253369a1c3feb68020ed86f493b6821f64be120e4016e0c132f9b488530f86d7ff68b612154348a2040dc2625e9d412098ee75
 Description: wicked
 Name: wicked
 Author: zero
