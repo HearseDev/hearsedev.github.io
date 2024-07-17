@@ -61,3 +61,7 @@ git add .
 git commit -m "update"
 git gc
 git push
+
+# CydiaIcon.png 64x64
+# CydiaIcon@2x.png 128 x 128
+# CydiaIcon@3x.png 192 x 192
