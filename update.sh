@@ -2,30 +2,30 @@
 set -e
 
 function ensure_installed() {
-	if ! [ -x "$(command -v $1)" ]; then
-		echo "Error: $1 is not installed." >&2
-		exit 1
-	fi
+  if ! [ -x "$(command -v $1)" ]; then
+    echo "Error: $1 is not installed." >&2
+    exit 1
+  fi
 }
 function is_installed() {
-	if ! [ -x "$(command -v $1)" ]; then
-		return 1
-	fi
-	return 0
+  if ! [ -x "$(command -v $1)" ]; then
+    return 1
+  fi
+  return 0
 }
 
 if [[ "$OSTYPE" == "linux-gnu"* ]]; then
-	echo "Detected Linux"
+  echo "Detected Linux"
 elif [[ "$OSTYPE" == "darwin"* ]]; then
-	echo "Detected macOS"
-	# Check if apt-ftparchive is installed
-	if ! is_installed apt-ftparchive; then
-		echo "Installing apt-ftparchive"
-		ensure_installed curl
-		ensure_installed brew
-		sudo curl -L -O --output-dir /usr/local/bin https://apt.procurs.us/apt-ftparchive && sudo chmod +x /usr/local/bin/apt-ftparchive
-		echo "Installed apt-ftparchive"
-	fi
+  echo "Detected macOS"
+  # Check if apt-ftparchive is installed
+  if ! is_installed apt-ftparchive; then
+    echo "Installing apt-ftparchive"
+    ensure_installed curl
+    ensure_installed brew
+    sudo curl -L -O --output-dir /usr/local/bin https://apt.procurs.us/apt-ftparchive && sudo chmod +x /usr/local/bin/apt-ftparchive
+    echo "Installed apt-ftparchive"
+  fi
 fi
 ensure_installed apt-ftparchive
 ensure_installed zstd
@@ -51,7 +51,8 @@ echo "[Repository] Generating Release..."
 apt-ftparchive release -c ./repo.conf . >Release
 
 echo "[Repository] Signing Release using Hearse's GPG Key..."
-gpg --passphrase-file passphrase.txt --pinentry-mode loopback -abs -u 7F33B352AB8C52031DF9F319AEE471C6270B1B6B -o Release.gpg Release
+# gpg --passphrase-file passphrase.txt --pinentry-mode loopback -abs -u  -o Release.gpg Release
+gpg -abs -u BE75DC8A8188AD1B17623F1F04EF7E5647254342 -o Release.gpg Release
 
 echo "[Repository] Finished"
 
