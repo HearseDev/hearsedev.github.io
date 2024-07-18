@@ -52,7 +52,7 @@ apt-ftparchive release -c ./repo.conf . >Release
 
 echo "[Repository] Signing Release using Hearse's GPG Key..."
 # gpg --passphrase-file passphrase.txt --pinentry-mode loopback -abs -u  -o Release.gpg Release
-gpg -abs -u BE75DC8A8188AD1B17623F1F04EF7E5647254342 -o Release.gpg Release
+gpg -abs -u 9A74C5143C033D0641011CE6108E251A767E4AAE -o Release.gpg Release
 
 echo "[Repository] Finished"
 
